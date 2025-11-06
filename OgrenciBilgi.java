@@ -1,3 +1,12 @@
+/*
+ * Ad Soyad: [Çağan Ahmet Erdoğan]
+ * Ogrenci No: [250541059]
+ * Tarih: [11/06/2025]
+ * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * 
+ * Bu program kullanicidan ogrenci bilgilerini alir ve
+ * duzenli bir formatta ekrana yazdirir.
+
 import java.util.Scanner;
 
 public class OgrenciBilgi {
