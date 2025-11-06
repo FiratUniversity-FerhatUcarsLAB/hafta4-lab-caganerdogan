@@ -5,7 +5,6 @@
  * Aciklama: Gorev 3 - Maaş Hesap Sistemi
  * 
  *  Çalışan bilgilerini alıp detaylı maaş bordrosu oluşturan program.
- * 
  */
 
  import java.time.LocalDate;
