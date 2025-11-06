@@ -2,11 +2,10 @@
 /*
  * Ad Soyad: [Çağan Ahmet Erdoğan]
  * Ogrenci No: [250541059]
- * Tarih: [11/06/2025]
+ * Tarih: [06/11/2025]
  * Aciklama: Gorev 2 - Geometrik Hesaplayıcı
  * 
  * Daire yarıçapını alıp,daire ve küre hesaplamaları yapan program.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
  */
 
 import java.util.Scanner;
